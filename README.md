@@ -1,4 +1,7 @@
+
 # Stack-QueueApp
+![image_2024-05-22_133149599](https://github.com/arashtabaa/Stack-QueueApp/assets/153722318/8a1f7eb8-ab21-48eb-9821-cfc9b64c3850)
+![image_2024-05-22_133137629](https://github.com/arashtabaa/Stack-QueueApp/assets/153722318/934994ed-9931-4db0-9cda-9816797a2e47)
 ♻️ Description:
 Stack&Queue is a Windows Forms application that demonstrates basic queue and stack operations using graphical interface elements. The application allows users to add, remove, and clear items in a queue, as well as push, pop, and clear items in a stack. Additionally, it provides functionality to move items between stacks.
 
