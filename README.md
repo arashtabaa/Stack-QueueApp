@@ -34,10 +34,12 @@ Stack&Queue is a Windows Forms application that demonstrates basic queue and sta
 
 
 ✅ Installation:
-- Clone the repository from GitHub:
-- ```git clone https://github.com/arashtabaa/Stack-QueueApp.git```
-- Open the solution file Stack&Queue.sln in Visual Studio.
-- Build and run the project.
+1. Clone the repository from GitHub:
+```sh
+git clone https://github.com/arashtabaa/Stack-QueueApp.git
+```
+2. Open the solution file Stack&Queue.sln in Visual Studio.
+3. Build and run the project.
 
 💫 Requirements:
 - Visual Studio 2019 or later
