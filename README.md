@@ -1,5 +1,7 @@
-
 # Stack-QueueApp
+
+[![GitHub release](https://img.shields.io/github/release/arashtabaa/Stack-QueueApp?style=flat-square)](https://github.com/arashtabaa/Stack-QueueApp/releases/latest)
+
 ![image_2024-05-22_133149599](https://github.com/arashtabaa/Stack-QueueApp/assets/153722318/8a1f7eb8-ab21-48eb-9821-cfc9b64c3850)
 ![image_2024-05-22_133137629](https://github.com/arashtabaa/Stack-QueueApp/assets/153722318/934994ed-9931-4db0-9cda-9816797a2e47)
 
